@@ -21,14 +21,8 @@ After filtering, the final dataset includes:
 
 - Listings located **only in Manhattan**
 - Reviews written **in English**
-- Reviews last review **on or after January 1, 2023**
+- Reviews **on or after January 1, 2023**
 - Rows with **no missing values**
-
----
-
-## 🔍 Features
-
-The final merged dataset includes selected columns from both `listings.csv` and `reviews.csv`.
 
 ---
 
