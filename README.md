@@ -77,9 +77,13 @@ Group_B_Airbnb/
 
 ## Team Members 
 This project is a collaborative effort by 
+
 Weixuan Shao
+
 Yue Xi 
+
 Xinyuan Xu 
+
 Jiawen Zou
 
 ---
