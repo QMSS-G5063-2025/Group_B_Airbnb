@@ -7,7 +7,7 @@ Manhattan Airbnb Explorer is the project of Group B at Columbia University’s G
 
 This project offers a data-driven exploration of Airbnb listings across Manhattan, using visualization and text analysisto reveal patterns in pricing, location, and guest feedback.
 
-[Launch the project](https://airbnb-homepy.streamlit.app/)
+[Launch the project](https://airbnb-visualization-team-b.streamlit.app/)
 
 ---
 
