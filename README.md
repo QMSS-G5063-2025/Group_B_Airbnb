@@ -31,6 +31,7 @@ Custom UI Design for user-friendly dashboard creation.
 
 ## Project Layout
 
+```
 Group_B_Airbnb/
 ├── data/                         # Cleaned datasets for analysis
 │   ├── airbnb_cleaned.csv        # Core cleaned Airbnb listing + review dataset
@@ -52,7 +53,7 @@ Group_B_Airbnb/
 ├── requirements.txt              # Python package requirements
 ├── README.md                     # Project overview, app usage guide, features, and team information
 └── .DS_Store                     # (System file, can be ignored or deleted)
-
+```
 
 ---
 
@@ -69,7 +70,7 @@ Group_B_Airbnb/
     ```
 3. Launch the Streamlit app:
     ```bash
-    streamlit run app.py
+    streamlit run Home.py
     ```
 
 ---
