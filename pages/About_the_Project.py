@@ -38,7 +38,7 @@ The final dataset includes:
 - Reviews dated **after January 1, 2023**.
 - Entries with **no missing values**.
 
-👉 See full details in our [Data Dictionary](https://github.com/QMSS-G5063-2025/Group_B_Airbnb/blob/main/Data/README.md#-data-dictionary).
+👉 See full details in our [Data Dictionary](https://github.com/QMSS-G5063-2025/Group_B_Airbnb/tree/main/data#-data-dictionary).
 
 ### ✨ NLP Preprocessing for Review Analysis
 To further prepare the review texts for text mining and visualization, we applied a series of **Natural Language Processing (NLP)** steps using **NLTK** and **TextBlob**, including:
@@ -49,7 +49,7 @@ To further prepare the review texts for text mining and visualization, we applie
 - Sentiment Analysis
 - Topic Modeling (LDA)
 
-👉 The NLP preprocessed dataset can be viewed [here](https://github.com/QMSS-G5063-2025/Group_B_Airbnb/blob/main/Data/airbnb_nlp_processes.csv).
+👉 The NLP preprocessed dataset can be viewed [here](https://github.com/QMSS-G5063-2025/Group_B_Airbnb/blob/main/data/airbnb_nlp_processes.csv).
 """)
 
 st.markdown("---")
