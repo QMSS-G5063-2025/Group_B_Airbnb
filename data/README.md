@@ -16,7 +16,6 @@ This dataset is the result of merging and filtering three original data sources:
 
 - `listings.csv`: Detailed  information and metrics for listings in New York City. 
 - `reviews.csv`: Summary user-generated reviews for the listings.
--  `reviews.csv.gz`: Detailed review data for the listings.
 
 After filtering, the final dataset includes:
 
