@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-Manhattan Airbnb Explorer is the a project of Group B at Columbia University’s GSAS (QMSS Program), developed as the final showcase for G5063 Data Visualization under the mentorship of Professor Thomas Brambor.
+Manhattan Airbnb Explorer is the project of Group B at Columbia University’s GSAS (QMSS Program), developed as the final showcase for G5063 Data Visualization under the mentorship of Professor Thomas Brambor.
 
 This project offers a data-driven exploration of Airbnb listings across Manhattan, using visualization and text analysisto reveal patterns in pricing, location, and guest feedback.
 
